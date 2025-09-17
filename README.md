@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaista Kanwal
+I'm a Data Science student passionate about learning Python, AI, and Data Analysis.
 
-<!--
-**Shaista-sk/Shaista-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 BS Data Science student at Virtual University  
+-  Interested in Data Analysis, Machine Learning, and AI  
+-  Currently learning Python, SQL, and Data Visualization
+  ---
+-  Previous experience in **Graphic Designing** (CorelDraw, Photoshop, Canva, InPage)  
+-  Background in **Web Designing** (HTML, CSS, WordPress)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 📧 Email: Kanwallio51@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/shaista-kanwal/  
